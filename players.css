@@ -14,4 +14,22 @@ a{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: medium;
     text-align: center;
+    font-weight: 400;
 }
+button {
+    border-radius: 8px;
+    background-color: rgb(78, 123, 247);
+    border: none;
+    color: rgb(70, 69, 71);
+    padding: 15px 20px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+
+    
+  }
