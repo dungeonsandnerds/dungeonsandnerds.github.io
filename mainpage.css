@@ -50,6 +50,21 @@ button2 {
     display: inline-block;
     font-size: 16px;
     position: absolute;
+    top: 40%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+button3 {
+    border-radius: 12px;
+    background-color: rgb(78, 123, 247);
+    border: none;
+    color: rgb(70, 69, 71);
+    padding: 15px 50px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    position: absolute;
     top: 30%;
     left: 50%;
     -ms-transform: translate(-50%, -50%);
