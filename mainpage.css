@@ -1,0 +1,72 @@
+h1{
+    font-family: sans-serif;
+    color: crimson;
+    text-align: center;
+}
+
+p{
+    font-family: sans-serif;
+    color: crimson;
+    text-align: center;
+}
+
+
+body{
+    background-color:rgb(70, 69, 71);
+}
+
+a{
+    color:rgb(78, 123, 247);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+    text-align: center;
+    font-weight: 400;
+}
+button {
+    border-radius: 12px;
+    background-color: rgb(78, 123, 247);
+    border: none;
+    color: rgb(70, 69, 71);
+    padding: 15px 50px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+
+    
+  }
+
+button2 {
+    border-radius: 12px;
+    background-color: rgb(78, 123, 247);
+    border: none;
+    color: rgb(70, 69, 71);
+    padding: 15px 50px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+button3 {
+    border-radius: 12px;
+    background-color: rgb(78, 123, 247);
+    border: none;
+    color: rgb(70, 69, 71);
+    padding: 15px 50px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
